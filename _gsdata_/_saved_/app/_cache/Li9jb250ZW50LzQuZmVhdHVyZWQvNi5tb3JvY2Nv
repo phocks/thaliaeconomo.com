@@ -21,7 +21,7 @@
 		<div id="topbar">
 			<a href="/"><h1 id="logo-alt" class="col two">
 				<span class="hidden">Thalia Economo
-				<em>Graphic Designer</em></span>
+				<em>Professional Graphic Design</em></span>
 			</h1></a>		
 									<h2 class="col toplink ">
 				<a href="./?/projects/">Projects</a>
@@ -321,7 +321,7 @@ Officeworks</p>
 	
 			<hr>
 			<p id="footer" class="col fullwidth">
-			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2012. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
+			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2013. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
 <!-- <em>Created by <a href="http://phocks.org/">Joshua Byrd</a>.</em> -->
 			</p>
 		</div>
@@ -402,4 +402,4 @@ $('.auto-slider').each( function() {
 
 
 
-<!-- Stacey(2.3.0): 9c4c9b1fdd0ed0fb4955c977ceb74507 -->
+<!-- Stacey(2.3.0): ceb9380efeedf4b62359a438ab4e67a4 -->

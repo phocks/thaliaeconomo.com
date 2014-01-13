@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>Thalia Economo's Portfolio - Nue-Retro</title>
+		<title>Thalia Economo's Portfolio - </title>
 		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
 		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
 		<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
@@ -21,7 +21,7 @@
 		<div id="topbar">
 			<a href="/"><h1 id="logo-alt" class="col two">
 				<span class="hidden">Thalia Economo
-				<em>Graphic Designer</em></span>
+				<em>Professional Graphic Design</em></span>
 			</h1></a>		
 									<h2 class="col toplink ">
 				<a href="./?/projects/">Projects</a>
@@ -57,9 +57,9 @@
 			
 			<div id="project-description" class="description col three">
 				<p class="no-space">2012</p>
-				<p class="no-space project-description-title">Nue-Retro</p>				
+				<p class="no-space project-description-title"></p>				
 				<p class="no-space">Insert Keywords</p>
-				<p>Stationery and product</p>
+				<p></p>
 				
 			</div>			
 			
@@ -231,7 +231,7 @@
 	
 			<hr>
 			<p id="footer" class="col fullwidth">
-			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2012. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
+			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2013. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
 <!-- <em>Created by <a href="http://phocks.org/">Joshua Byrd</a>.</em> -->
 			</p>
 		</div>
@@ -312,4 +312,4 @@ $('.auto-slider').each( function() {
 
 
 
-<!-- Stacey(2.3.0): 307f010d99d71887c037650b79aeed7e -->
+<!-- Stacey(2.3.0): ceb9380efeedf4b62359a438ab4e67a4 -->
