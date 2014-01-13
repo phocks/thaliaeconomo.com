@@ -1,0 +1,170 @@
+/* Colours */
+
+body, a { color: #222; }
+a { border-bottom: 1px solid #ccc; }
+em { color: #999; }
+em a { color: #666; }
+em.background { color: #BBB; }
+
+/* Typography */
+
+body, input { font-family: 'Cantarell', 'Nunito', "Helvetica", helvetica, "Helvetica Neue", arial, sans-serif; line-height: 1.3; }
+ul li, p, em { font-size: 13px; font-style: normal; letter-spacing: -0.01em; }
+h1, h2 { font-size: 13px; font-weight: normal; }
+a { text-decoration: none; }
+
+/* Layout */
+
+body { padding: 10px 0px 40px; text-align: center; }
+div#container { margin: 0px auto; width: 1100px; padding: 5px 10px; text-align: left; 
+	/* background: url('/images/grid-bg.gif') 20px 0px; */
+}
+
+.col { float: left; margin: 0px 0px 0px 0px; padding: 0px; }
+.col .col { margin: 0px; }
+
+.one { width: 60px; }
+.two { width: 140px; }
+.three { width: 220px; }
+.four { width: 300px; }
+.five { width: 380px; }
+.six { width: 460px; }
+.seven { width: 540px; }
+.eight { width: 620px; }
+.nine { width: 700px; }
+.ten { width: 780px; }
+.eleven { width: 860px; }
+.twelve { width: 940px; }
+.fullwidth { width: 1100px; }
+
+h1 em, h2 em { display: block; }
+
+p, h2 { margin: 0px 0px 5px; }
+hr { display: block; clear: both; margin: 0px 0px 30px; padding: 0px; height: 0px; overflow: hidden; visibility: hidden; }
+a img { border: 0px; }
+.col hr { margin: 0px 0px 15px; }
+
+h2 { overflow: hidden; }
+input#filter { display: inline; width: auto; padding: 1px 0px; border: 0px; background: #eee; font-size: inherit; color: inherit; }
+
+div#content ul.project-list { margin: 150px 0px 0px 20px; padding: 0px; list-style: none; width: 640px;  }
+div#content ul.project-list li { margin: 0px 20px -1px 0px; }
+ul.project-list div.thumbnail a { border: 0px; display: inline;  }
+ul.project-list div.summary { margin: 0px 0px 0px 20px; }
+
+h2.title, div#content p.category, div#content ul.project-list li, 
+div.description, p.para {  padding: 27px 0px 0px; }
+div#content ul.project-list li { padding: 20px 0px; }
+div#images, div#media {  padding: 5px 0px 0px; }
+
+div#media { overflow: hidden; }
+div.media { margin: 0px 0px 0px; }
+
+div#content div.description { position: relative; margin: 0px 0px 0px 0px; }
+div.description div#media { margin: 0px 0px 10px; border: 0px; padding: 0px; }
+
+p#footer { margin: 0px 0px 10px 0px; display: inline; line-height: 1.4; font-size: 9px; color: #999; text-align: left; }
+p#footer em { display: block; }
+
+a.atom-rss { margin: 0px 0px 0px 6px; padding: 2px 3px 0px; font-size: 0.93em; letter-spacing: 0.08em; background: #ddd; }
+
+
+
+/* Additional CSS Styles coded by Joshua Byrd */
+
+#topbar { position: fixed; background-color: white; width: 100%; opacity: 0.85; z-index: 100; }
+h2.toplink, h2.toplink a,
+h2.toplinkcurrent, h2.toplinkcurrent a { font-size: 11px; width: 190px; text-transform: uppercase; }
+
+/* This is for the logo rollover effect and its reverse on some pages. */
+#logo { border: 0; background-image: url(/public/images/te-logo-slide-new.jpg); height: 180px; width: 180px; margin-right: 20px; position: relative; left:-58px; }
+#logo:hover { background-position: -180px 0px; background-repeat: no-repeat; position: relative; left: -49px; }
+#logo-alt { border: 0; background-image: url(/public/images/te-logo-slide-new.jpg); height: 180px; width: 180px; margin-right: 20px; background-position: -229px 0px; background-repeat: no-repeat;  }
+#logo-alt:hover { background-position: -229px 0px; }
+
+.toplink, .toplinkcurrent { margin-top: 85px; }
+.toplink a { border: 0; color: #999; }
+.toplink a:hover { color: #222; }
+h2.toplinkcurrent a { color: #222; }
+h2.lowercase a { text-transform: lowercase; }
+
+
+
+.hidden { visibility: hidden; }
+
+#content-container { margin-top: 160px; } 
+#content-grey { background: #f8f8f8; padding: 35px 0 10px 0; }
+#content-grey p { margin-bottom: 1.4em; font-size: 8pt; }
+#content-grey #images { padding: 0; }
+ 
+/* This is pretty much what controls the thumbnails on the front and the rollovers thereabouts */
+
+.project_thumb { background-color: #fafafa; border: 1px solid transparent; float: left; margin: 0 10px 0px 0px; padding: 0; width: 180px; clear: both; overflow: visible; }
+.project_thumb a { border: none; padding: 0 0 0px; margin: 0; }
+.project_thumb img { vertical-align: bottom; }
+.thumb-title { font-size: 7pt; margin: 0; padding: 3px 0 0; color: black; }
+.thumb-description { font-size: 7pt; color: #666; margin:0; padding: 0;}
+.thumb-keywords { font-size: 7pt; color: #666; padding-top: 5px; padding-bottom: 6px; font-style: italic; }
+.roll-container { position: relative; background: #ddd; overflow: hidden; }
+.hidden-rollover { height: 0; overflow: hidden; color: white; text-align: right; font-size: 10pt; }
+.shown-rollover { overflow: hidden; background: #fafafa; }
+.project_thumb:hover .hidden-rollover, 
+.project_thumb.over .hidden-rollover { text-transform: uppercase; font-size: 11px; position: absolute; overflow: visible; top: 50%; left: 40px; margin-top: -7px; display: block; }
+.project_thumb:hover .shown-rollover, 
+.project_thumb.over .shown-rollover { visibility: hidden; }
+div.coming-soon { background: url(/public/images/coming-soon.png); background-position: center; background-color: #302C2D; }
+
+/* Stuff on the project pages */
+#project-description { color: #666; padding-right: 30px; border-top: #999 solid 1px; }
+#project-description p, 
+#project-description em, #project-description a { font-size: 7pt; margin-bottom: 1.3em; }
+#project-description .no-space { margin-bottom: 0em; }
+
+#project-pics { text-align: center; background-color: #f8f8f8; padding-bottom: 20px; border-top: 1px solid #aaa; 
+				border-bottom: 1px solid #aaa; overflow: hidden; }
+#project-pics img { margin: auto; width: 550px; vertical-align: bottom; }
+#project-pics div { margin: auto; }
+
+#project-titles { padding: 0; margin: 0; border-bottom: 1px solid #aaa; }
+
+div#images img, #project-pics img { margin-bottom: 5px; }
+
+
+div.project-line { display: block; border-bottom: 1px solid #aaa; padding-top: 20px; }
+
+
+#project-text { text-align: left; color: #555; padding: 6px 0 12px;}
+#project-text p { font-size: 7pt; margin: 0; padding: 0; }
+
+.no-underline { text-decoration: none; border: none; }
+#right-col { padding-left: 7px; color: #999; font-size: 10px; }
+.small-text { color: #999; font-size: 10px; }
+
+.slide-wrapper { position:relative; padding-bottom: 5px; }
+.right-button { position: absolute; right: 40px; top: 40%; cursor: pointer; overflow: hidden; text-align: left;}
+div.right-button img { position: relative; bottom: -8px; margin: 0; padding: 0; }
+
+#after-titles-container { padding-top: 0; }
+
+.project-description-title { text-transform: uppercase; }
+
+div.image { position: relative; }
+div.image .iptc-title { position: absolute; z-index: 20; color: #999; left: 140px; bottom: 20px; font-size: 8pt;}
+
+
+
+/* Stuff for the Archive page and probably other categories etc */
+
+#archive-container { border-top: 1px solid #aaa; border-bottom: 1px solid #aaa; padding-top: 10px; padding-bottom: 10px; }
+#archive-container a { border:none; }
+
+.archive-category-title, .archive-category-title a { font-size: 7pt; margin: 0; padding: 0 0 2px; color: #666; }
+.archive-project-title, .archive-project-title a { font-size: 7pt; margin: 0; padding: 0 0 2px; color: #999; }
+
+.archive-project-title a:hover { color: #45B4AB; }
+div.archive-project-list { padding-bottom: 10px; }
+.hidden { display: none; }
+p.current, p.current a { color: #45B4AB; }
+
+
+

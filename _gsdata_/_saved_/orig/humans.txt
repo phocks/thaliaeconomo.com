@@ -1,0 +1,43 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  CEO and MD: Geoffrey Spink
+  Site: http://www.editdefine.com
+  Twitter: @the_Spink
+  Location: Melbourne, AUSTRALIA
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+  
+
+                                    
+                               -o/-                       
+                               +oo//-                     
+                              :ooo+//:                    
+                             -ooooo///-                   
+                             /oooooo//:                   
+                            :ooooooo+//-                  
+                           -+oooooooo///-                 
+           -://////////////+oooooooooo++////////////::    
+            :+ooooooooooooooooooooooooooooooooooooo+:::-  
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-   
+                     -:+ooooooooooooooooo+:://////:--     
+                       /ooooooooooooooooo+//////:-        
+                      -ooooooooooooooooooo////-           
+                      /ooooooooo+oooooooooo//:            
+                     :ooooooo+/::/+oooooooo+//-           
+                    -oooooo/::///////+oooooo///-          
+                    /ooo+::://////:---:/+oooo//:          
+                   -o+/::///////:-      -:/+o+//-         
+                   :-:///////:-            -:/://         
+                     -////:-                 --//:        
+                       --                       -:        

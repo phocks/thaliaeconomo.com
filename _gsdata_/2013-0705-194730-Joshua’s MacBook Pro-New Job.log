@@ -1,0 +1,72 @@
+===== 2013-07-05 19:47:38: Job 'New Job': SYNC started by User on computer 'Joshua’s MacBook Pro' =====
+New Job: /Users/jb/Sites/Thalia/thaliaeconomo.com <-> ftp://ftp.netregistry.net, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Copy Over 'ftp://ftp.netregistry.net/app/_cache/Li9jb250ZW50L2luZGV4' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/app/_cache/Li9jb250ZW50L2luZGV4' (User Action)
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_autoslide1/3.TheLocalPress-Logo-2.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_autoslide1/3.TheLocalPress-Logo-2.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_autoslide1/4.TheLocalPress-Print-1.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_autoslide1/4.TheLocalPress-Print-1.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide2/1.TheLocalPress-Concepts-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide2/1.TheLocalPress-Concepts-4.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide2/2.TheLocalPress-Concepts-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide2/2.TheLocalPress-Concepts-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide2/3.TheLocalPress-Logo-1.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide2/3.TheLocalPress-Logo-1.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide3/1.TheLocalPress-Print-5.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide3/1.TheLocalPress-Print-5.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide3/2.TheLocalPress-Print-3.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide3/2.TheLocalPress-Print-3.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide3/3.TheLocalPress-Print-1B.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide3/3.TheLocalPress-Print-1B.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide3/4.TheLocalPress-Print-4.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide3/4.TheLocalPress-Print-4.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_slide3/5.TheLocalPress-Print-2.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_slide3/5.TheLocalPress-Print-2.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/_titles/TheLocalPress-Title.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/_titles/TheLocalPress-Title.png'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/3.projects/2.cafes/6.the-local-press/thumb.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/3.projects/2.cafes/6.the-local-press/thumb.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_group1/1.OWSummer-Design-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_group1/1.OWSummer-Design-4.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_group1/2.OWSummer-Design-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_group1/2.OWSummer-Design-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_group1/3.OWSummer-Design-2.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_group1/3.OWSummer-Design-2.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_group1/4.OWSummer-Design-1.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_group1/4.OWSummer-Design-1.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_slide3/1.OWSummer-JG-ArtDirection-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_slide3/1.OWSummer-JG-ArtDirection-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_slide3/2.OWSummer-JG-ArtDirection-2.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_slide3/2.OWSummer-JG-ArtDirection-2.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_slide3/3.OWSummer-JG-ArtDirection-1.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_slide3/3.OWSummer-JG-ArtDirection-1.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/_titles/OWSUMMER-Title.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/_titles/OWSUMMER-Title.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/OWSummer-CatCover-1.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/OWSummer-CatCover-1.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/11.philosophy-summer/thumb.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/11.philosophy-summer/thumb.jpg'
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/13.hobart-deli/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/13.hobart-deli/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_autoslide1/1.TheLocalPress-Print-6.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_autoslide1/1.TheLocalPress-Print-6.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_autoslide1/2.TheLocalPress-Print-2B.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_autoslide1/2.TheLocalPress-Print-2B.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_autoslide1/3.TheLocalPress-Logo-2.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_autoslide1/3.TheLocalPress-Logo-2.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_autoslide1/4.TheLocalPress-Print-1.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_autoslide1/4.TheLocalPress-Print-1.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide2/1.TheLocalPress-Concepts-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide2/1.TheLocalPress-Concepts-4.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide2/2.TheLocalPress-Concepts-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide2/2.TheLocalPress-Concepts-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide2/3.TheLocalPress-Logo-1.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide2/3.TheLocalPress-Logo-1.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide3/1.TheLocalPress-Print-5.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide3/1.TheLocalPress-Print-5.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide3/2.TheLocalPress-Print-3.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide3/2.TheLocalPress-Print-3.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide3/3.TheLocalPress-Print-1B.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide3/3.TheLocalPress-Print-1B.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide3/4.TheLocalPress-Print-4.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide3/4.TheLocalPress-Print-4.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_slide3/5.TheLocalPress-Print-2.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_slide3/5.TheLocalPress-Print-2.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/_titles/TheLocalPress-Title.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/_titles/TheLocalPress-Title.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/18.the-local-press/thumb.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/18.the-local-press/thumb.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/_group1/TomBlachford-1.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/_group1/TomBlachford-1.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/_group1/TomBlachford-2.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/_group1/TomBlachford-2.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/_slide2/TomBlachford-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/_slide2/TomBlachford-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/_slide2/TomBlachford-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/_slide2/TomBlachford-4.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/2.tom-blachford/thumb.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/2.tom-blachford/thumb.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/1.Deco-Design.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/1.Deco-Design.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/_autoslide1/1.Deco-Illus-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/_autoslide1/1.Deco-Illus-4.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/_autoslide1/2.Deco-Illus-3.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/_autoslide1/2.Deco-Illus-3.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/_autoslide1/3.Deco-Illus-2.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/_autoslide1/3.Deco-Illus-2.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/_autoslide1/4.Deco-Illus-1.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/_autoslide1/4.Deco-Illus-1.jpg'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/_titles/Deco-Title.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/_titles/Deco-Title.png'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/3.deco/thumb.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/3.deco/thumb.png'
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/4.the-walk/_autoslide1/1.TheWalk-Logo-Concepts-7.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/4.the-walk/_autoslide1/1.TheWalk-Logo-Concepts-7.jpg' (User Action)
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/4.the-walk/_autoslide1/2.TheWalk-Logo-Concepts-6.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/4.the-walk/_autoslide1/2.TheWalk-Logo-Concepts-6.jpg' (User Action)
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/4.the-walk/_autoslide1/3.TheWalk-Logo-Concepts-5.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/4.the-walk/_autoslide1/3.TheWalk-Logo-Concepts-5.jpg' (User Action)
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/4.the-walk/_autoslide1/4.TheWalk-Logo-Concept-4.jpg' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/4.the-walk/_autoslide1/4.TheWalk-Logo-Concept-4.jpg' (User Action)
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/4.the-walk/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/4.the-walk/project.txt'
+Copy Over 'ftp://ftp.netregistry.net/content/4.featured/9.nue-retro/project.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/9.nue-retro/project.txt'
+Copy New 'ftp://ftp.netregistry.net/content/4.featured/9.nue-retro/thumb.png' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/4.featured/9.nue-retro/thumb.png'
+Copy Over 'ftp://ftp.netregistry.net/content/_shared.txt' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/content/_shared.txt' (User Action)
+Copy New 'ftp://ftp.netregistry.net/postinfo.html' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/postinfo.html'
+Copy Over 'ftp://ftp.netregistry.net/public/docs/css/screen.css' -> '/Users/jb/Sites/Thalia/thaliaeconomo.com/public/docs/css/screen.css' (User Action)
+Save State File /Users/jb/Sites/Thalia/thaliaeconomo.com/_gsdata_/_file_state_v4._gs
+Save State File ftp://ftp.netregistry.net/_gsdata_/_file_state_v4._gs
+Items Synced OK: 65, Errors: 0
+===== 2013-07-05 19:53:54: Sync Completed. Time: 00:06:24, Speed: 16K/s =====
+

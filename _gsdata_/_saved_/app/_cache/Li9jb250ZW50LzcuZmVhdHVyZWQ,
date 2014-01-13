@@ -1,0 +1,397 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Thalia Economo's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="../?/feed/">
+		<link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
+		<script src="/public/docs/javascript/jquery-1.7.1.min.js"></script>
+		<script src="/public/docs/javascript/jquery.masonry.min.js"></script>
+	</head>
+	<body>
+		<div id="container">
+		<div id="topbar">
+			<a href="/"><h1 id="logo-alt" class="col two">
+				<span class="hidden">Thalia Economo
+				<em>Graphic Designer</em></span>
+			</h1></a>		
+						<h2 class="col toplink">
+				<a href="/">FEATURED</a>
+			</h2>
+			<h2 class="col toplink">
+				<a href="/archive">ARCHIVE</a>
+			</h2>
+			<h2 class="col toplink">
+				<a href="http://oipssst.blogspot.com/">BLOG</a>
+			</h2>
+			<h2 class="col toplink">
+				<a href="/studio">STUDIO</a>
+			</h2>
+			<h2 class="col toplink">
+				<a href="mailto:hello@thaliaeconomo.com">hello@thaliaeconomo.com</a>
+			</h2>
+			<p class="col six hidden"><em>       <a href="../logo-types/">Logo Types</a>,
+  
+      <a href="../cafes/">Cafes</a>,
+  
+  
+      <a href="../print/">Prints</a>,
+  
+      <a href="../surface-design/">Surface Design</a>,
+  
+      <a href="../about/">About</a>,
+  
+      <a href="../studio/">Contact details</a>,
+  
+  
+ </em></p>
+			</div>
+			<hr>
+			<div id="content" class="home col fullwidth">			
+				<div id="content-container" class="project-list col twelve" style="width: 1100px;">			
+					       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/deco/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/17.deco/thumb.png" alt="">
+    			<br />
+    			<p class="thumb-title">Deco</p>
+    			<p class="thumb-description">Philosophy stationery for Officeworks</p>
+    			<p class="thumb-keywords">Illustration / Surface Design / Graphic Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/bennett/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/16.bennett/thumb.png" alt="">
+    			<br />
+    			<p class="thumb-title">Bennet + Co</p>
+    			<p class="thumb-description">Law practice branding</p>
+    			<p class="thumb-keywords">Identity / Print</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/welcome-aboard/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/15.welcome-aboard/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Welcome Aboard</p>
+    			<p class="thumb-description">CBA Hall Of Fame event branding</p>
+    			<p class="thumb-keywords">Identity / illustration / Typography / Print</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/alphabet-animals/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/14.alphabet-animals/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Alphabet Animals</p>
+    			<p class="thumb-description">A Brand Called ED stationery and product</p>
+    			<p class="thumb-keywords">Illustration / Surface Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/hobart-deli/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/13.hobart-deli/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Hobart Deli</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/hip-hop/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/12.hip-hop/thumb.gif" alt="">
+    			<br />
+    			<p class="thumb-title">Hip Hop SS12</p>
+    			<p class="thumb-description">A Brand Called ED stationery and product</p>
+    			<p class="thumb-keywords">Illustration / Surface Design / Typography / Art Direction</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/tom-blachford/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/11.tom-blachford/thumb.png" alt="">
+    			<br />
+    			<p class="thumb-title">Tom Blachford</p>
+    			<p class="thumb-description">AOTEAROA exhibition</p>
+    			<p class="thumb-keywords">Typography / Art Direction / Graphic Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/dream-spirit/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/10.dream-spirit/thumb.gif" alt="">
+    			<br />
+    			<p class="thumb-title">DreamSpirit</p>
+    			<p class="thumb-description">Surface Design for LG Wallpaper</p>
+    			<p class="thumb-keywords">Colour / Illustration / Surface Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/nue-retro/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/9.nue-retro/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Hobart Deli</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/feather/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/8.feather/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Feather SS11</p>
+    			<p class="thumb-description">Philosophy stationery for Oceworks</p>
+    			<p class="thumb-keywords">Colour/ illustration / Surface Design / Art Direction</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/peacock/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/7.peacock/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Paisley Peacock</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/morocco/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/6.morocco/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Morocco</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/imac-delux/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/5.imac-delux/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">iMac Delux</p>
+    			<p class="thumb-description">A featured project.</p>
+    			<p class="thumb-keywords">SWF, print, poster, photography, party, flyer, promotion</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/emo-for-ed/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/5.emo-for-ed/thumb.gif" alt="">
+    			<br />
+    			<p class="thumb-title">EMO</p>
+    			<p class="thumb-description">A Brand Called ED stationery and product</p>
+    			<p class="thumb-keywords">Illustration / Surface Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/the-walk/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/4.the-walk/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">The Walk</p>
+    			<p class="thumb-description">A featured project.</p>
+    			<p class="thumb-keywords">SWF, print, poster, photography, party, flyer, promotion</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/en-francaise/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/2.en-francaise/thumb.png" alt="">
+    			<br />
+    			<p class="thumb-title">Hobart Deli</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/philosophy-summer/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/2.philosophy-summer/thumb.jpg" alt="">
+    			<br />
+    			<p class="thumb-title">Philosophy Summer</p>
+    			<p class="thumb-description">Deli / Cafe branding</p>
+    			<p class="thumb-keywords">typeface, modular, display face, unreleased,</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+       
+   		 
+    		<div class="project_thumb">
+    		<a href="../featured/craftbooks/">
+    			<div class="roll-container">
+    			<div class="shown-rollover">
+    			<img src="../content/7.featured/1.craftbooks/thumb.png" alt="">
+    			<br />
+    			<p class="thumb-title">Craftbooks</p>
+    			<p class="thumb-description">Vintage series notebooks for Philosophy</p>
+    			<p class="thumb-keywords">Art Direction / Graphic Design</p>
+    			</div>
+    			<div class="hidden-rollover">Let me see more</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+     					
+				</div>						
+			</div>		
+			
+			<hr>
+			<p id="footer" class="col fullwidth">
+			&copy; Copyright Thalia Economo 2002 — 2012. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="../?/feed/">RSS</a><br>
+<!-- <em>Created by <a href="http://phocks.org/">Joshua Byrd</a>.</em> -->
+			</p>
+		</div>
+
+
+<!-- pretty javascript -->		
+<!-- This detects windows and changes fonts as to not break the screen -->
+<script src="../public/docs/javascript/jquery.client.js"></script>
+<script type="text/javascript">
+		$(document).ready(function(){
+    if ($.client.os == "Windows-NOT-DELETE-THIS-TO-MAKE_WORK")
+    {
+        $("body").css('font-family', 'Helvetica, helvetica, "Helvetica Neue", arial, sans-serif');        
+    }
+});
+</script>	
+		
+		<script>
+	
+
+var $container = $('#content-container');
+
+$container.imagesLoaded(function(){
+  $container.masonry({
+    itemSelector : '.project_thumb',
+  });
+});
+		</script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 1dc73d4924e86a2689cca676a9d54889 -->

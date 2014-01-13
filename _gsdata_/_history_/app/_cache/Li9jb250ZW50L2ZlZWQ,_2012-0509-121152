@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Thalia Economo's Portfolio Feed</title>
+  <subtitle>Graphic Designer</subtitle>
+  <link href="http://www.thaliaeconomo.com/?/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://www.thaliaeconomo.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2012-05-07T16:40:52+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Thalia Economo</name>
+    <uri>http://www.thaliaeconomo.com</uri>
+  </author>
+
+  <id>tag:www.thaliaeconomo.com,2012:/?/feed/</id>
+  <rights>©2012 Thalia Economo</rights>
+    <entry>
+   <title>Featured</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/</id>
+   <updated>2012-03-08T13:03:47+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Deco Nights</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/deco/</id>
+   <updated>2012-05-07T16:40:37+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/deco/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.featured/17.deco/1.Deco-Design.jpg" alt="Deco Design."/>
+
+          
+            <p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Bennett + Co</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/bennett/</id>
+   <updated>2012-05-07T16:40:15+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/bennett/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Welcome Aboard</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/welcome-aboard/</id>
+   <updated>2012-05-07T16:39:55+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/welcome-aboard/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Welcome Aboard CD mail-out teaser with<br />
+cruise themed music compiled by Paul Bilsby</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Alphabet Animals</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/alphabet-animals/</id>
+   <updated>2012-05-07T16:39:27+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/alphabet-animals/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand -<br />
+Alphabet Animals<br />
+Target market 4 to 8 year olds</p>
+
+<p>Client -<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Hobart Deli</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/hobart-deli/</id>
+   <updated>2012-05-07T16:38:35+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/hobart-deli/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>New local deli and cafe<br />
+Art Direction by Waldermar Kolbusz</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Hip Hop</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/hip-hop/</id>
+   <updated>2012-05-07T16:37:49+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/hip-hop/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.featured/12.hip-hop/HipHop-Product.jpg" alt="HipHop Product."/>
+
+          
+            <p>Brand -<br />
+A Brand Called ED<br />
+Target market 8 - 16 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Tom Blachford</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/tom-blachford/</id>
+   <updated>2012-05-07T16:36:37+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/tom-blachford/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Check –<br />
+www.tomblachford.com</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>DreamSpirit</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/dream-spirit/</id>
+   <updated>2012-05-07T16:36:21+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/dream-spirit/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Client  -<br />
+LG Hausys, Korea</p>
+
+<p>Competition  -<br />
+The Royal College of Art /<br />
+LG Hausys Eco Wallpaper Award 2010</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Nue-Retro</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/nue-retro/</id>
+   <updated>2012-05-05T23:16:28+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/nue-retro/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Emerald Feather</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/feather/</id>
+   <updated>2012-05-04T02:33:46+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/feather/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Paisley Peacock</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/peacock/</id>
+   <updated>2012-05-04T06:21:52+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/peacock/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Morocco</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/morocco/</id>
+   <updated>2012-05-04T02:45:16+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/morocco/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>EMO</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/emo-for-ed/</id>
+   <updated>2012-05-05T13:40:29+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/emo-for-ed/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand -<br />
+A Brand Called ED<br />
+Target market 8 to 16 year olds</p>
+
+<p>Client -<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Walk Cafe</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/the-walk/</id>
+   <updated>2012-05-07T16:40:45+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/the-walk/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>The use of vintage photography help form the overall theme.
+Eating, drinking enjoying life was the client’s ethos. 
+The candidness and sentimental aspect of these images
+were courtesy of the Nicolaidis family albums are also
+relevant to the tone and feel of the establishment.</p>
+
+<p>Interior -<br />
+Julian Tan</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>EN FRANÇAISE</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/en-francaise/</id>
+   <updated>2012-05-05T13:40:16+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/en-francaise/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.featured/2.en-francaise/EnFrancaise-Colour-Design.jpg" alt="EnFrancaise Colour Design."/>
+
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 to 35 year old females</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Summer</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/philosophy-summer/</id>
+   <updated>2012-05-07T16:40:41+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/philosophy-summer/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.featured/2.philosophy-summer/OWSummer-CatCover-1.jpg" alt="OWSummer CatCover 1."/>
+
+          
+            <p>STATIONERY &#38;amp; PRODUCT<br />
+Illustrations by Jason Grant<br />
+Art Direction &#38;amp; Design by Thalia Economo</p>
+
+<p>RETHINK SUMMER 2012 CATALOUGE<br />
+Styling by Jason Grant<br />
+Photography by Janice Luck<br />
+Art Direction &#38;amp; Design by Thalia Economo</p>
+
+<p>Check –<br />
+<a href="http://www.mrjasongrant.com/">www.mrjasongrant.com</a><br />
+<a href="http://www.officeworks.com.au/retail/landing/philosophy">www.officeworks.com.au</a></p>
+
+<p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Craftbooks</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/featured/craftbooks/</id>
+   <updated>2012-05-07T16:35:51+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/featured/craftbooks/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Current Projects</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/</id>
+   <updated>2012-05-07T16:35:28+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Events</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/</id>
+   <updated>2012-05-07T16:35:27+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Tom Blachford</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/tom-blachford/</id>
+   <updated>2012-05-07T16:35:25+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/tom-blachford/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Check –<br />
+www.tomblachford.com</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Welcome Aboard</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/welcome-aboard/</id>
+   <updated>2012-05-07T16:35:12+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/welcome-aboard/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Welcome Aboard CD mail-out teaser with<br />
+cruise themed music compiled by Paul Bilsby</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>United in Love</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/united-in-love/</id>
+   <updated>2012-05-07T16:34:43+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/united-in-love/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>L'amour</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/melbourne-opera/</id>
+   <updated>2012-05-07T16:34:10+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/melbourne-opera/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Event –<br />
+Annual Gala Dinner &#38;amp; Auction</p>
+
+<p>Client –<br />
+Melbourne Opera</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Royal Institute of Architects</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/events/raia-awards/</id>
+   <updated>2012-05-07T16:33:51+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/events/raia-awards/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Prints</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/</id>
+   <updated>2012-05-07T16:32:55+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Bennett + Co</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/bennett/</id>
+   <updated>2012-05-07T16:32:53+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/bennett/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Various Music</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/various-music/</id>
+   <updated>2012-05-07T16:32:28+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/various-music/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/5.print/5.various-music/Maton.jpg" alt="Maton."/>
+
+          
+            <p>CARDBOARD CITY<br />
+PAUL BILSBY<br />
+MATON</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Miss Blush</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/miss-blush/</id>
+   <updated>2012-05-07T16:32:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/miss-blush/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/5.print/4.miss-blush/3.MissBlush-1.jpg" alt="MissBlush 1."/>
+  <img src="./content/3.projects/5.print/4.miss-blush/2.MissBlush-2.jpg" alt="MissBlush 2."/>
+  <img src="./content/3.projects/5.print/4.miss-blush/1.MissBlush-3.jpg" alt="MissBlush 3."/>
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Deluxe Guide</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/deluxe/</id>
+   <updated>2012-05-07T16:31:55+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/deluxe/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Pierucci</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/print/pierucci/</id>
+   <updated>2012-05-07T16:31:26+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/print/pierucci/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Photography -<br />
+Jody Pachniuk<br />
+www.jodypachniuk.com</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Surface Design</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/</id>
+   <updated>2012-05-07T16:31:02+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Summer</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/philosophy-summer/</id>
+   <updated>2012-05-07T16:26:46+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/philosophy-summer/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/3.surface-design/13.philosophy-summer/OWSummer-CatCover-1.jpg" alt="OWSummer CatCover 1."/>
+
+          
+            <p>STATIONERY &#38;amp; PRODUCT<br />
+Illustrations by Jason Grant<br />
+Art Direction &#38;amp; Design by Thalia Economo</p>
+
+<p>RETHINK SUMMER 2012 CATALOUGE<br />
+Styling by Jason Grant<br />
+Photography by Janice Luck<br />
+Art Direction &#38;amp; Design by Thalia Economo</p>
+
+<p>Check –<br />
+<a href="http://www.mrjasongrant.com/">www.mrjasongrant.com</a><br />
+<a href="http://www.officeworks.com.au/retail/landing/philosophy">www.officeworks.com.au</a></p>
+
+<p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Hip Hop</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/hip-hop/</id>
+   <updated>2012-05-07T16:26:15+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/hip-hop/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/3.surface-design/12.hip-hop/HipHop-Product.jpg" alt="HipHop Product."/>
+
+          
+            <p>Brand -<br />
+A Brand Called ED<br />
+Target market 8 - 16 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Craftbooks</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/craftbooks/</id>
+   <updated>2012-05-07T16:25:13+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/craftbooks/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Alphabet Animals</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/alphabet-animals/</id>
+   <updated>2012-05-07T16:24:47+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/alphabet-animals/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand -<br />
+Alphabet Animals<br />
+Target market 4 to 8 year olds</p>
+
+<p>Client -<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Morocco</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/morocco/</id>
+   <updated>2012-05-07T16:31:00+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/morocco/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>EN FRANÇAISE</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/en-francaise/</id>
+   <updated>2012-05-07T16:30:21+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/en-francaise/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/3.surface-design/8.en-francaise/EnFrancaise-Colour-Design.jpg" alt="EnFrancaise Colour Design."/>
+
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 to 35 year old females</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Deco Nights</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/deco/</id>
+   <updated>2012-05-07T16:29:58+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/deco/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.projects/3.surface-design/7.deco/1.Deco-Design.jpg" alt="Deco Design."/>
+
+          
+            <p>Brand –<br />
+Philosophy</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>DreamSpirit</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/dream-spirit/</id>
+   <updated>2012-05-07T16:29:41+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/dream-spirit/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Client  -<br />
+LG Hausys, Korea</p>
+
+<p>Competition  -<br />
+The Royal College of Art /<br />
+LG Hausys Eco Wallpaper Award 2010</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Paisley Peacock</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/peacock/</id>
+   <updated>2012-05-07T16:29:11+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/peacock/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Emerald Feather</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/feather/</id>
+   <updated>2012-05-07T16:28:31+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/feather/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand –<br />
+Philosophy<br />
+Target market 18 - 35 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>EMO</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/emo-for-ed/</id>
+   <updated>2012-05-07T16:27:54+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/emo-for-ed/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Brand -<br />
+A Brand Called ED<br />
+Target market 8 to 16 year olds</p>
+
+<p>Client -<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Collage</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/collage/</id>
+   <updated>2012-05-07T16:27:07+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/collage/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Baby Safari Animals</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/surface-design/baby-safari-animals/</id>
+   <updated>2012-05-07T16:24:11+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/surface-design/baby-safari-animals/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Stationery and product</p>
+
+<p>Brand –<br />
+A Brand Called ED<br />
+Target market 6 to 12 year olds</p>
+
+<p>Client –<br />
+Officeworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Cafes</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/cafes/</id>
+   <updated>2012-05-07T16:23:38+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/cafes/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>The Walk Cafe</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/cafes/the-walk/</id>
+   <updated>2012-05-07T16:23:35+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/cafes/the-walk/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>The use of vintage photography help form the overall theme.
+Eating, drinking enjoying life was the client’s ethos. 
+The candidness and sentimental aspect of these images
+were courtesy of the Nicolaidis family albums are also
+relevant to the tone and feel of the establishment.</p>
+
+<p>Interior -<br />
+Julian Tan</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Hobart Deli</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/cafes/hobart-deli/</id>
+   <updated>2012-05-07T16:22:27+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/cafes/hobart-deli/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>New local deli and cafe<br />
+Art Direction by Waldermar Kolbusz</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Deli Chicchi</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/cafes/deli-chicchi/</id>
+   <updated>2012-05-07T16:21:55+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/cafes/deli-chicchi/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Divido</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/cafes/divido/</id>
+   <updated>2012-05-07T16:21:08+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/cafes/divido/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Interior –<br />
+Kristjan Donaldson</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Logo Types</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/logo-types/</id>
+   <updated>2012-05-07T16:20:18+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/logo-types/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Logotypes</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/projects/logo-types/various/</id>
+   <updated>2012-05-07T16:20:16+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/projects/logo-types/various/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>I have decided to feature a few works that<br />
+I love that did not make it to the final</p>
+
+<p>To view more Corporate ID work head to my
+ARCHIVE – Identity - Various</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+  <entry>
+   <title>Archive</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/</id>
+   <updated>2012-05-07T16:19:56+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Identity</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/identity/</id>
+   <updated>2012-05-07T16:19:53+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/identity/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Various</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/identity/various-corporate-id/</id>
+   <updated>2012-05-07T16:19:51+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/identity/various-corporate-id/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Print</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/print/</id>
+   <updated>2012-05-07T16:18:31+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/print/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Art In Bloom</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/print/art-in-bloom/</id>
+   <updated>2012-05-07T16:18:30+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/print/art-in-bloom/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>2002 – 2003<br />
+ARTIFACTS<br />
+Publication -<br />
+Friends of The Art Gallery of Western Australia<br />
+Art Direction &#38;amp; Design</p>
+
+<p>Client -<br />
+The Art Gallery of WA</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Aussie Jeans Rocks</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/print/laurence-wines/</id>
+   <updated>2012-05-07T15:00:35+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/print/laurence-wines/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Client –<br />
+Laurence Wines</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Surface Design</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/surface-design/</id>
+   <updated>2012-05-07T15:00:14+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/surface-design/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Simply Music</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/surface-design/simply-music/</id>
+   <updated>2012-05-07T15:00:12+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/surface-design/simply-music/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Simply Music uses a revolutionary method in piano and keyboard teaching. Unlike the conventional process in which students learn to read and write music before they play, this method relies on the same way small children learn to talk – using our natural rhythmic instincts and attuning ourselves to the music by ‘feeling it' and ‘seeing it’. Therefore a series of expressive marks were developed in ink, pencil, crayons and paint to create compositions that had a musical feel and symbolised the teaching method.</p>
+
+<p>Client –<br />
+Simply Music<br />
+Created while freelancing at Smartworks</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Peel Campus</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/archive/surface-design/peel-campus/</id>
+   <updated>2012-05-07T16:18:16+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/archive/surface-design/peel-campus/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Architects Taylor Robinson required a surface<br />
+graphic to feature on the foyer reception wall. Taking inspiration from the surrounding native vegetation and natural environment, first with photographic studies - then illustrated versions of banksia and eucalyptus experimenting with line, form, texture and view points. A series of concepts were presented within<br />
+the irregular designated wall panel areas. Design elements within each concept connecting adjoining panels and overall design.</p>
+
+<p>The final surface design was digitally printed on<br />
+8mm MDF board then inserted into the irregular<br />
+interior wall fixtures.</p>
+
+<p>Client -
+Taylor Robinson Architects</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+  <entry>
+   <title>Contact details</title>
+   <id>tag:www.thaliaeconomo.com,2012:/?/studio/</id>
+   <updated>2012-05-07T16:17:49+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://www.thaliaeconomo.com/?/studio/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.studio/2.peaceis-land-surface-web.png" alt="Peaceis land surface web."/>
+
+          
+            <div class="col four">
+<p>// Snapshot<br />
+Thalia Economo is a Surface Print Designer with a history and degree in Graphic Design and Illustration. She operates and designs from her studio in Melbourne Australia, but likes to work worldwide.</p>
+
+<p>This website presents a collection of graphic, typographic, illustrative and surface projects in print and on product.</p>
+
+<p>// Currently<br />
+Interested in collaborations with brands and labels to create original and unique  custom crafted Surface Prints.</p>
+
+<p>// Soon<br />
+Peace IS / The Surface Salon will be here shortly to adorn you with all your surface needs <a href="http://www.peaceisstudio.com/">www.peaceisstudio.com</a></p>
+</div>
+
+<div class="col two" style="margin-left: 120px">
+
+<p>//  Contact<br />
+AUS+61 402 14 00 56<br />
+<a href="mailto:hello@thaliaeconomo.com">hello@thaliaeconomo.com</a></p>
+
+<p>//  Follow<br />
+<a href="http://www.linkedin.com/pub/thalia-economo/3a/a58/b44">LinkedIn</a><br />
+<a href="http://www.behance.net/thaliaeconomo">Behance</a><br />
+<a href="http://www.theloop.com.au/hellothalia/portfolio/Graphic-Designer/Melbourne">The Loop</a></p>
+
+</div>
+
+<div class="col two" style="margin-left: 120px">
+<p>//  Studio<br />
+2 / 215 Nicholson Street<br />
+East Brunswick, VIC 3057 AUSTRALIA</p>
+
+
+<p>// Directions<br />
+Last stop tram No.96 to East Brunswick<br />
+<a href="http://g.co/maps/hsqks">View map on here</a>
+</div>
+
+<hr />
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.3.0): 68f3f7ab82f2298ccdb7cc783f84c978 -->

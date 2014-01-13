@@ -1,0 +1,6 @@
+name: Thalia Economo
+-
+profession: Graphic Designer
+-
+email: 
+<hello@thaliaeconomo.com>

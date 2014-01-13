@@ -1,0 +1,223 @@
+<!-- First thumb and then the print category -->
+get "/featured" do
+  
+       
+    foreach $children[:1] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>    
+    	
+    endforeach 
+    
+    
+    		<div id="audio-print" class="project_thumb">
+    		
+    			<a href="/?/projects/print"><img src="@root_path/public/images/Rollover-print.png" alt="" data-hover="@root_path/public/images/Rollover-print-rollover.png" />
+    			</a>
+    						
+    		</div>
+    		
+    		
+    		
+    		
+    
+  
+
+
+<!-- Second thumbnails and Events -->
+
+       
+    foreach $children[1:3] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>      
+    	
+    endforeach 
+    
+    
+    		<div id="audio-events" class="project_thumb">    		
+    			<a href="/?/projects/events"><img src="@root_path/public/images/Rollover-events.png" data-hover="@root_path/public/images/Rollover-events-rollover.png" alt=""></a> 
+       		</div> 		
+    		
+    		
+    
+ 
+
+
+<!-- Third thumbnails and Logo Types -->
+
+       
+    foreach $children[4:3] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>     
+    	
+    endforeach 
+    
+    
+    		<div id="audio-logo-types" class="project_thumb">
+    			<a href="/?/projects/logo-types"><img src="@root_path/public/images/Rollover-logotypes.png" data-hover="@root_path/public/images/Rollover-logotypes-rollover.png" alt=""></a>  			
+    		</div> 		
+    		
+    		
+    
+ 
+
+
+<!-- Fourth thumbnails and Surface Design -->
+
+       
+    foreach $children[7:4] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>   
+    	
+    endforeach 
+    
+    
+    		<div id="audio-image-making" class="project_thumb">
+    			<a href="/?/projects/surface-design"><img src="@root_path/public/images/Rollover-surfacedesign.png" data-hover="@root_path/public/images/Rollover-surfacedesign-rollover.png" alt=""></a>  			
+    		</div> 		
+    		
+    		
+
+
+<!-- Fifth thumbnails and Cafes -->
+
+       
+    foreach $children[11:4] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>   
+    	
+    endforeach 
+    
+    
+    		<div id="audio-cafes" class="project_thumb">
+    			<a href="/?/projects/cafes"><img src="@root_path/public/images/Rollover-cafes.png" data-hover="@root_path/public/images/Rollover-cafes-rollover.png" alt=""></a> 			
+    		</div> 		
+    		
+    		
+    
+
+
+
+<!-- The rest of the projects -->
+
+       
+    foreach $children[15:] do    
+   		 
+    		<div class="project_thumb">
+    		<a href="if !@comingsoon do @url endif if @comingsoon do # endif">
+    			<div class="roll-container if @comingsoon do coming-soon endif">
+    			<div class="shown-rollover">
+    			<img src="@thumb" alt="">
+    			<br />
+    			<p class="thumb-title">@title</p>
+    			<p class="thumb-description">@description</p>
+    			<p class="thumb-keywords">if @frontline do @frontline endif</p>
+    			</div>
+    			<div class="hidden-rollover">
+    			if !@comingsoon do
+    				Let me see more   			
+    			endif    			
+    			</div>
+    			</div>
+    		</a>
+    		</div>   
+    	
+    endforeach 
+    
+    
+    			
+    		
+    		
+    
+
+
+
+
+<!-- to add the Peace IS Studio link to the end --> 
+<div class="project_thumb">
+<a href="http://peaceisstudio.com/"><img src="@root_path/public/images/peace-is.jpg" alt=""></a>
+</div>

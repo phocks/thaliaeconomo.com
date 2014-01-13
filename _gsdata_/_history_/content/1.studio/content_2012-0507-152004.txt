@@ -1,0 +1,40 @@
+title: Contact details
+-
+content:
+<div class="col four">
+<p>// Snapshot<br />
+Thalia Economo is a Surface Print Designer with a history and degree in Graphic Design and Illustration. She operates and designs from her studio in Melbourne Australia, but likes to work worldwide.</p>
+
+<p>This website presents a collection of graphic, typographic, illustrative and surface projects in print and on product.</p>
+
+<p>// Currently<br />
+Interested in collaborations and with brands and labels to create original and unique  custom crafted Surface Prints.</p>
+
+<p>// Soon<br />
+Peace IS / The Surface Salon will be here shortly to adorn you with all your surface needs <a href="http://www.peaceisstudio.com/">www.peaceisstudio.com</a></p>
+</div>
+
+
+
+<div class="col two" style="margin-left: 120px" markdown="1">
+//  Contact  
+AUS+61 402 14 00 56  
+[hello@thaliaeconomo.com](mailto:hello@thaliaeconomo.com)
+
+//  Follow  
+[LinkedIn](http://www.linkedin.com/pub/thalia-economo/3a/a58/b44)  
+[Behance](http://www.behance.net/thaliaeconomo)  
+[The Loop](http://www.theloop.com.au/hellothalia/portfolio/Graphic-Designer/Melbourne)  
+</div>
+
+<div class="col two" style="margin-left: 120px">
+<p>//  Studio<br />
+2 / 215 Nicholson Street<br />
+East Brunswick, VIC 3057 AUSTRALIA</p>
+
+
+<p>// Directions<br />
+Last stop tram No.96 to East Brunswick<br />
+<a href="http://g.co/maps/hsqks">View map on here</a>
+</div>
+<hr>

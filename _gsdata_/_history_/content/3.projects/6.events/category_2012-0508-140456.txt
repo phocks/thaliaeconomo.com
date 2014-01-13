@@ -1,0 +1,3 @@
+title: Events
+-
+description: An events category.

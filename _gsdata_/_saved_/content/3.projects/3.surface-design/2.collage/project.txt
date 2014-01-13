@@ -1,0 +1,14 @@
+title: Collage
+-
+description: Surface design for travel mugs
+-
+date: 2011
+-
+keywords: Illustration / Surface Design
+-
+content:
+
+-
+text1: Pup-Isle
+-
+text2: Dino-Land
