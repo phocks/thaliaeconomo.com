@@ -1,3 +1,0 @@
-title: Logo Types
--
-description: A logo types project.

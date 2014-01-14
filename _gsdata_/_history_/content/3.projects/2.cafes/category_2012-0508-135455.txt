@@ -1,3 +1,0 @@
-title: Cafes
--
-description: A cafe project.
