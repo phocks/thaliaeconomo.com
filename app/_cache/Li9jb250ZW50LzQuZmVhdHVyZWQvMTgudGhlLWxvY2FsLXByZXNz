@@ -331,7 +331,7 @@
 	
 			<hr>
 			<p id="footer" class="col fullwidth">
-			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2013. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
+			&copy; Copyright Thalia Economo trading as Peace IS. 2002 — 2014. &nbsp; &nbsp; All rights reserved. No material contained within this website may be reproduced, distributed, modified, transmitted, reused or adapted without the prior written permission.<a class="atom-rss hidden" href="./?/feed/">RSS</a><br>
 <!-- <em>Created by <a href="http://phocks.org/">Joshua Byrd</a>.</em> -->
 			</p>
 		</div>
@@ -412,4 +412,4 @@ $('.auto-slider').each( function() {
 
 
 
-<!-- Stacey(2.3.0): 58aa0097e46ecad976c19be787dc6111 -->
+<!-- Stacey(2.3.0): 2e08582dc9caa278d91e4b513a6ecef7 -->
